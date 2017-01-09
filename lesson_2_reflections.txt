@@ -5,11 +5,17 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	It contains information about the differences of the local file to the repository file.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	Because i can see, which and how many files have been changed using git status.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	When we are working on a new feeature, which requires a lot try and error, and therefore a lot of commits. After finishing that, we can just merge it back, to keep the history of the master smaller...
 
 How do the diagrams help you visualize the branch structure?
 
