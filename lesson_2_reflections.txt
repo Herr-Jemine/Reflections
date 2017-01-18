@@ -19,8 +19,14 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Easier to understand.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	together halt
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+	Auto saves time, creates trouble. Manual is always correct, takes lots of time.
